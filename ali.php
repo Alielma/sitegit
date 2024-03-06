@@ -14,3 +14,5 @@ header("location:ali2.php");
 
 
 ?>
+<h1> hello world
+</h1>
