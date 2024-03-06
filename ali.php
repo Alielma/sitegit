@@ -16,3 +16,6 @@ header("location:ali2.php");
 ?>
 <h1> hello world
 </h1>
+<h1>hy mom
+    
+</h1>
